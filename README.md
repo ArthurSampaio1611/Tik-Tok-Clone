@@ -1,4 +1,4 @@
-# The TikTok clone is a project made in React 
+# TikTok
 Just a project for studying and practicing React
 
 # Credits
