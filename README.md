@@ -1,4 +1,4 @@
-# TikTok
+# TikTok Clone
 Just a project for studying and practicing React
 
 # Credits
