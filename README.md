@@ -8,7 +8,11 @@ Um projeto feito em React durante a Jornada FullStack da [EBAC](https://ebaconli
 
 
 #Ferramentas
+
 HTML
+
 CSS
+
 React
+
 Firebase
