@@ -5,3 +5,10 @@ Um projeto feito em React durante a Jornada FullStack da [EBAC](https://ebaconli
 [Clique Aqui](https://tik-tok---jornada-dev-ebac.web.app) para ver a pagina rodando no seu navegador.
 
 ![image](https://github.com/arthurolando/Tik-Tok-Clone/assets/124641219/1952e846-89a7-4e8b-ba18-7609fa8af289)
+
+
+#Ferramentas
+HTML
+CSS
+React
+Firebase
